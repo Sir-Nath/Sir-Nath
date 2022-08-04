@@ -1,0 +1,20 @@
+### Hi there 👋
+
+
+
+- My name is Peter Nathaniel a.k.a Sir-Nath
+
+- A Little About me; 
+- 🔭 I’m currently working on improving my skills
+- 🌱 I’m currently learning firebase tools
+- 👯 I’m looking to collaborate on any projects and oppurtunity that will make me grow
+- 🤔 I’m looking for help with 
+- 💬 Ask me about anything
+
+- 📫 How to reach me: 
+- LinkedIn: https://www.linkedin.com/in/peter-nathaniel-455425215
+- Whatsapp: 09057343593
+- Gmail: peternathaniel49@gmail.com
+- twitter: https://twitter.com/Sir__Nath
+- 😄 Pronouns: ...He/Him/His
+
