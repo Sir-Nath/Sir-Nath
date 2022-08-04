@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning firebase tools
 - 👯 I’m looking to collaborate on any projects and oppurtunity that will make me grow
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with getting internship and other oppurtunity
 - 💬 Ask me about anything
 
 - 📫 How to reach me: 
