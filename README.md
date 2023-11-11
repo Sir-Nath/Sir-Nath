@@ -1,3 +1,14 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47wop14z9ec8vkhwz4xxt1f2uyowyvok4ln0rqqfkf&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="170"/>
+</div>
+
+<div  align="center">
+  <h1  align="center">
+  PETER NATHANIEL LUCKY
+  </h1>
+  A Flutter Developer
+  </div>
+
 
 
 # Hi there 👋
@@ -43,7 +54,7 @@
 
 
 # My Projects APK: 
-https://drive.google.com/drive/folders/18LXwMcP91qivhHiBBhgdWLIZJE-NZ90_ 
+[Project Folder](https://drive.google.com/drive/folders/18LXwMcP91qivhHiBBhgdWLIZJE-NZ90_ )
 
 # Status:
   
