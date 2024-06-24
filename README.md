@@ -1,18 +1,14 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47wop14z9ec8vkhwz4xxt1f2uyowyvok4ln0rqqfkf&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="170"/>
-</div>
 
 <div  align="center">
   <h1  align="center">
   PETER NATHANIEL LUCKY
   </h1>
+   <h1  align="center">
   A Flutter Developer
+  </h1>
   </div>
 
 
-
-# Hi there 👋
-- My name is Peter Nathaniel a.k.a Sir-Nath
 # A Little About me: 
 - 🔭 I’m currently working on improving my skills
 - 👯 I’m looking to collaborate on any projects and oppurtunity that will make me grow
@@ -30,7 +26,7 @@
  <a href="mailto:peternathaniel49@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-   <a href="https://wa.me/+2348169583715">
+   <a href="https://wa.me/+2349057343593">
     <img src="https://img.shields.io/badge/Whatsapp-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
   
@@ -58,9 +54,9 @@
 
 # Status:
   
- [![GitHub Streak](https://streak-stats.demolab.com?user=Sir-Nath&theme=github-dark)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sir-nath&show_icons=true&locale=en&layout=compact" alt="sir-nath" /></p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-Nath&layout=compact&theme=vision-friendly-dark)](https://github.com/Sir-Nath/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sir-nath&show_icons=true&locale=en" alt="sir-nath" /></p>
 
 
-<p align="left"> <a href="https://github.com/Sir-Nath/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sir-Nath&theme=gruvbox" alt = "" /></a> </p>
+
