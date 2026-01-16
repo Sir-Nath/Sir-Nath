@@ -10,7 +10,6 @@
 
 
 # A Little About me: 
-- 🔭 I’m currently working on improving my skills
 - 👯 I’m looking to collaborate on any projects and oppurtunity that will make me grow
 - 💬 Ask me about anything
 
