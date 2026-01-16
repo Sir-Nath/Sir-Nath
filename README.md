@@ -48,14 +48,8 @@
 </div>
 
 
-# My Projects APK: 
-[Project Folder](https://drive.google.com/drive/folders/18LXwMcP91qivhHiBBhgdWLIZJE-NZ90_ )
 
-# Status:
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sir-nath&show_icons=true&locale=en&layout=compact" alt="sir-nath" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sir-nath&show_icons=true&locale=en" alt="sir-nath" /></p>
 
 
 
